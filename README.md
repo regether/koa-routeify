@@ -1,8 +1,7 @@
-## koa-routeify ![npm](https://badge.fury.io/js/koa-routeify.png)
+## meow-routeify
 
-the next router for koajs.
-
-[![NPM](https://nodei.co/npm/koa-routeify.png?months=1&downloads=true&downloadRank=true&stars=true)](https://npmjs.org/koa-routeify)
+the next router for koajs, based on [koa-routrify]()
+://github.com/regether/koa-routeify
 
 ### Installation
 
@@ -16,7 +15,7 @@ app.js
 
 ````javascript
 import koa      from 'koa';
-import routeify from 'koa-routeify';
+import routeify from 'meow-routeify';
 
 const app = koa();
 

@@ -5,20 +5,20 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/song940/koa-routeify.git"
+    "url": "git+https://github.com/regether/koa-routeify.git"
   },
   "keywords": [
     "koa",
     "router"
   ],
   "author": {
-    "name": "lsong"
+    "name": "lsong yanweiqing"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/song940/koa-routeify/issues"
+    "url": "https://github.com/regether/koa-routeify/issues"
   },
-  "homepage": "https://github.com/song940/koa-routeify#readme",
+  "homepage": "https://github.com/regether/koa-routeify#readme",
   "dependencies": {
     "debug": "latest",
     "path-to-regexp": "latest"

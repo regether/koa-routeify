@@ -1,4 +1,4 @@
-## meow-routeify
+## salt-routeify
 
 the next router for koajs, based on [koa-routrify]()
 ://github.com/regether/salt-routeify

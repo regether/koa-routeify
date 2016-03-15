@@ -3,7 +3,7 @@ var path   = require('path');
 var parser = require('./parser');
 var router = require('./router');
 
-var debug  = require('debug')('koa-routeify');
+var debug  = require('debug')('salt-routeify');
 
 module.exports = function(app, options){
   options = Object.assign({

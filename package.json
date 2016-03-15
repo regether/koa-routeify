@@ -1,11 +1,11 @@
 {
-  "name": "meow-routeify",
+  "name": "salt-routeify",
   "version": "0.0.1",
-  "description": "koa router ",
+  "description": "koa router",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/song940/koa-routeify.git"
+    "url": "git@github.com:regether/salt-routeify.git"
   },
   "keywords": [
     "koa",
@@ -16,9 +16,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/song940/koa-routeify/issues"
+    "url": "https://github.com/regether/salt-routeify/issues"
   },
-  "homepage": "https://github.com/song940/koa-routeify#readme",
+  "homepage": "https://github.com/regether/salt-routeify#readme",
   "dependencies": {
     "debug": "latest",
     "path-to-regexp": "latest"

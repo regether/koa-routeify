@@ -21,7 +21,7 @@ module.exports = function router(app){
       if(route.regexp.test(ctx.path)) return true;
     });
 
-    debug('koa-routeify')(routes);
+    debug('salt-routeify')(routes);
 
     if(!routes.length) return yield* next;// not found.
     var route = routes[ 0 ];

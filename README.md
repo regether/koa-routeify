@@ -1,12 +1,12 @@
 ## meow-routeify
 
 the next router for koajs, based on [koa-routrify]()
-://github.com/regether/koa-routeify
+://github.com/regether/salt-routeify
 
 ### Installation
 
 ````
-$ npm install koa-routeify --save
+$ npm install salt-routeify --save
 ````
 
 ### Example
@@ -15,7 +15,7 @@ app.js
 
 ````javascript
 import koa      from 'koa';
-import routeify from 'meow-routeify';
+import routeify from 'salt-routeify';
 
 const app = koa();
 
